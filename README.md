@@ -1,2 +1,4 @@
-# PolarX-MD
-Powerful modified version of Knight MD bot 
+<div align="center">
+## PolarX-MD
+
+
